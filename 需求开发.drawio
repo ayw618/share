@@ -1,0 +1,234 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="z7YVH_mcs5yLgfAUsE1x">
+    <mxGraphModel dx="1149" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-11" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-1" collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="input" vertex="1">
+          <mxGeometry height="30" width="70" x="60" y="190" as="geometry">
+            <mxRectangle height="120" width="140" x="60" y="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-2" parent="Xt0BE-Gc5GwB0KarQG-t-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：query" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-3" parent="Xt0BE-Gc5GwB0KarQG-t-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：query" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-4" parent="Xt0BE-Gc5GwB0KarQG-t-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入节点" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-30" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="rewrite_query" 提示词模板="重写" 输入="提示词模板" 输出="思考过程，rewritten query" id="Xt0BE-Gc5GwB0KarQG-t-5">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="110" x="160" y="190" as="geometry">
+              <mxRectangle height="120" width="140" x="160" y="190" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="输入：query" 输入="query、用于重写的提示词模板" 输出="重写后的query（rewritten query）" 说明="设计用于重写的提示词模板，将其导入大模型，生成重写后的query，用正则表达式进行格式化提取" id="Xt0BE-Gc5GwB0KarQG-t-6">
+          <mxCell parent="Xt0BE-Gc5GwB0KarQG-t-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="140" y="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-7" parent="Xt0BE-Gc5GwB0KarQG-t-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：think, rewritten query" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-8" parent="Xt0BE-Gc5GwB0KarQG-t-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="对输入数据进行重写" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-27" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-69" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="first_intent" 一级意图识别类型="CREATE,COMMAND,EDIT,CHAT,INVALID" 提示词模板="一级意图识别" 输入="提示词模板" 输出="思考过程，first_intent" id="Xt0BE-Gc5GwB0KarQG-t-12">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="110" x="320" y="190" as="geometry">
+              <mxRectangle height="120" width="140" x="320" y="190" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="输入：rewritten_query" 输入="query、用于重写的提示词模板" 输出="重写后的query（rewritten query）" 说明="设计用于重写的提示词模板，将其导入大模型，生成重写后的query，用正则表达式进行格式化提取" id="Xt0BE-Gc5GwB0KarQG-t-13">
+          <mxCell parent="Xt0BE-Gc5GwB0KarQG-t-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="140" y="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-14" parent="Xt0BE-Gc5GwB0KarQG-t-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：think, first_intent" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-15" parent="Xt0BE-Gc5GwB0KarQG-t-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="根据重写的query得到一级意图识别" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-41" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xt0BE-Gc5GwB0KarQG-t-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="second_intent" 提示词模板="二级意图识别" 输入="提示词模板" 输出="思考过程think，first_intent" 二级意图="CREATE.DEFAULT" id="Xt0BE-Gc5GwB0KarQG-t-17">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="110" x="620" y="105" as="geometry">
+              <mxRectangle height="120" width="140" x="620" y="105" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="输入：rewritten_query, first_intent" 输入="query、用于重写的提示词模板" 输出="重写后的query（rewritten query）" 说明="设计用于重写的提示词模板，将其导入大模型，生成重写后的query，用正则表达式进行格式化提取" id="Xt0BE-Gc5GwB0KarQG-t-18">
+          <mxCell parent="Xt0BE-Gc5GwB0KarQG-t-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="140" y="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-19" parent="Xt0BE-Gc5GwB0KarQG-t-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：think, second_intent" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-20" parent="Xt0BE-Gc5GwB0KarQG-t-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="得到二级意图识别" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-29" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="CREATE" vertex="1">
+          <mxGeometry height="80" width="80" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-38" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-40" connectable="0" parent="Xt0BE-Gc5GwB0KarQG-t-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要追问" vertex="1">
+          <mxGeometry relative="1" x="0.1324" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-50" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="是否追问" 判断逻辑="必要属性和非必要属性，如果完整包含必要属性就无需追问。" 提示词模板="{{rewritten query}}以及判断逻辑&#xa;```think ``` ```ask ```提取思考过程和追问逻辑" 输入="{{rewritten query}}" 输出="```think ``` ```ask ```" 判断需要追问="```ask ```包含内容，有问号，判定为需要追问" 判断不需要追问="```ask ```内部内容为空或没有问号，判定为不需要追问" id="Xt0BE-Gc5GwB0KarQG-t-31">
+          <mxCell parent="1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="80" width="80" x="770" y="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-39" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-34" collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="output" vertex="1">
+          <mxGeometry height="30" width="70" x="370" y="20" as="geometry">
+            <mxRectangle height="120" width="140" x="370" y="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-35" parent="Xt0BE-Gc5GwB0KarQG-t-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：```ask ```内容" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-36" parent="Xt0BE-Gc5GwB0KarQG-t-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：```ask ```内容" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-37" parent="Xt0BE-Gc5GwB0KarQG-t-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="模型将```ask ```内容输出到界面，显示给用户" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <object label="task_description" 提示词模板="" 输入="" 输出="" id="Xt0BE-Gc5GwB0KarQG-t-42">
+          <mxCell parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="120" width="140" x="500" y="450" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-43" parent="Xt0BE-Gc5GwB0KarQG-t-42" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：think" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-44" parent="Xt0BE-Gc5GwB0KarQG-t-42" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：description" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-45" parent="Xt0BE-Gc5GwB0KarQG-t-42" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="生成任务描述" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-56" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="task_description" 提示词模板="根据history内容生成description，用```description```标签包裹description内容" 输入="history_content" 输出="对话内容和```description```内容" id="Xt0BE-Gc5GwB0KarQG-t-46">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="900" y="105" as="geometry">
+              <mxRectangle height="120" width="140" x="900" y="105" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-47" parent="Xt0BE-Gc5GwB0KarQG-t-46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：history_content" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-48" parent="Xt0BE-Gc5GwB0KarQG-t-46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：description" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-49" parent="Xt0BE-Gc5GwB0KarQG-t-46" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="生成任务描述，展示对话内容" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-61" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="120.23529411764707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="code_description" 提示词模板="根据history_content，生成json格式的文件描述```json```" 输入="history_content" 输出="对话内容&#xa;```json 具体的json内容 ```" id="Xt0BE-Gc5GwB0KarQG-t-51">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="1080" y="105" as="geometry">
+              <mxRectangle height="120" width="140" x="1080" y="105" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-52" parent="Xt0BE-Gc5GwB0KarQG-t-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：history_content" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-53" parent="Xt0BE-Gc5GwB0KarQG-t-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：code_description" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-54" parent="Xt0BE-Gc5GwB0KarQG-t-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="生成具体文件的描述，用json格式封装" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-66" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="generate" 提示词模板="根据description任务总体描述和code description json里具体文件的描述，生成具体的代码文件```yaml```或者```code```" 输入="description, code description json" 输出="```think思考过程```，```yaml配置文件```或者```code代码文件```" 描述="会进行7次的调用，用7个提示词，进行生成7个文件" id="Xt0BE-Gc5GwB0KarQG-t-57">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="90" x="1241" y="105" as="geometry">
+              <mxRectangle height="120" width="140" x="1241" y="105" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-58" parent="Xt0BE-Gc5GwB0KarQG-t-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：code description json" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-59" parent="Xt0BE-Gc5GwB0KarQG-t-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：7个文件" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-60" parent="Xt0BE-Gc5GwB0KarQG-t-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="生成完整的文件" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-67" edge="1" parent="1" source="Xt0BE-Gc5GwB0KarQG-t-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Xt0BE-Gc5GwB0KarQG-t-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1425" y="-30" />
+              <mxPoint x="95" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="output" 提示词模板="" 输入="" 输出="" id="Xt0BE-Gc5GwB0KarQG-t-62">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="70" x="1390" y="105" as="geometry">
+              <mxRectangle height="120" width="140" x="1380" y="105" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-63" parent="Xt0BE-Gc5GwB0KarQG-t-62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：think" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-64" parent="Xt0BE-Gc5GwB0KarQG-t-62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：总结" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-65" parent="Xt0BE-Gc5GwB0KarQG-t-62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="将总结显示给用户" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xt0BE-Gc5GwB0KarQG-t-68" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="EDIT" vertex="1">
+          <mxGeometry height="80" width="80" x="510" y="165" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
