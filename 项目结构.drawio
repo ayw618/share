@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="urBjOSaETXCDmVz05Lcm">
-    <mxGraphModel dx="1715" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,19 +70,19 @@
           </mxGeometry>
         </mxCell>
         <object label="main agent" 提示词="你只能从以下六个意图里选择工具（create、edit、qa、command、chat、invalid），并根据工具结果进行最终的总结回答，如果不满局这六个意图的使用条件，则需要你进一步追问（调用追问continue_to_ask工具）" 输入="user query、tool result、history" 输出="final answer、tool call" id="jbLmJs_Znrl8gG-u3tbT-9">
-          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
-            <mxGeometry height="30" width="100" x="273.5" y="470" as="geometry">
-              <mxRectangle height="120" width="140" x="273.5" y="470" as="alternateBounds" />
+          <mxCell parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="120" width="140" x="253.5" y="425" as="geometry">
+              <mxRectangle height="30" width="100" x="273.5" y="470" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="jbLmJs_Znrl8gG-u3tbT-10" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：messages" vertex="1">
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-10" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：用户输入" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="jbLmJs_Znrl8gG-u3tbT-11" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：messages" vertex="1">
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-11" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：tool_call/answer" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="jbLmJs_Znrl8gG-u3tbT-12" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述" vertex="1">
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-12" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：包含意图识别的提示词" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jbLmJs_Znrl8gG-u3tbT-72" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-43">
@@ -375,7 +375,7 @@
         <mxCell id="jbLmJs_Znrl8gG-u3tbT-139" parent="jbLmJs_Znrl8gG-u3tbT-136" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：知识问答" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
-        <object label="tool_QA/INVALID" 提示词="进行闲聊" 输入="description" 输出="闲聊内容" id="jbLmJs_Znrl8gG-u3tbT-141">
+        <object label="tool_CHAT/INVALID" 提示词="进行闲聊" 输入="description" 输出="闲聊内容" id="jbLmJs_Znrl8gG-u3tbT-141">
           <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="30" width="120" x="660" y="650" as="geometry">
               <mxRectangle height="120" width="140" x="660" y="660" as="alternateBounds" />
@@ -392,7 +392,7 @@
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jbLmJs_Znrl8gG-u3tbT-147" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="continued_turns=0" vertex="1">
-          <mxGeometry x="510" y="665" as="geometry" />
+          <mxGeometry x="520" y="665" as="geometry" />
         </mxCell>
         <mxCell id="jbLmJs_Znrl8gG-u3tbT-152" collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tool_REWRITE" vertex="1">
           <mxGeometry height="30" width="130" x="420" y="1030" as="geometry">
@@ -443,6 +443,9 @@
         </mxCell>
         <mxCell id="jbLmJs_Znrl8gG-u3tbT-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="read_file" vertex="1">
           <mxGeometry height="60" width="120" x="1170" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="W2UNi-wQ8yC6WYRIKOP5-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="两个最基本的工具" vertex="1">
+          <mxGeometry height="30" width="160" x="1060" y="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
