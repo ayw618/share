@@ -1,0 +1,450 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="urBjOSaETXCDmVz05Lcm">
+    <mxGraphModel dx="1715" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="820" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="90" width="630" x="820" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="820" y="357.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="820" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-58" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="jbLmJs_Znrl8gG-u3tbT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="485" />
+              <mxPoint x="410" y="295" />
+            </Array>
+            <mxPoint x="460.0000000000002" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-75" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="jbLmJs_Znrl8gG-u3tbT-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="485" />
+              <mxPoint x="410" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-91" connectable="0" parent="jbLmJs_Znrl8gG-u3tbT-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="continued_turns=0" vertex="1">
+          <mxGeometry relative="1" x="0.2181" y="-1" as="geometry">
+            <mxPoint x="9" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-80" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-113" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="jbLmJs_Znrl8gG-u3tbT-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-133" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="jbLmJs_Znrl8gG-u3tbT-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="485" />
+              <mxPoint x="410" y="590" />
+              <mxPoint x="660" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-156" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="760" />
+              <mxPoint x="485" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-168" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="485" />
+              <mxPoint x="410" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="main agent" 提示词="你只能从以下六个意图里选择工具（create、edit、qa、command、chat、invalid），并根据工具结果进行最终的总结回答，如果不满局这六个意图的使用条件，则需要你进一步追问（调用追问continue_to_ask工具）" 输入="user query、tool result、history" 输出="final answer、tool call" id="jbLmJs_Znrl8gG-u3tbT-9">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="100" x="273.5" y="470" as="geometry">
+              <mxRectangle height="120" width="140" x="273.5" y="470" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-10" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：messages" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-11" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：messages" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-12" parent="jbLmJs_Znrl8gG-u3tbT-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-72" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="tool_CREATE" 提示词="进一步判断创建意图是否满足，如果不满足则返回不满足的原因，满足则进行进行下一步创建" 输入="description" 输出="创建好的文件，总结回答" id="jbLmJs_Znrl8gG-u3tbT-13">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="120" x="660" y="280" as="geometry">
+              <mxRectangle height="120" width="140" x="660" y="280" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-14" parent="jbLmJs_Znrl8gG-u3tbT-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description, continued_turns" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-15" parent="jbLmJs_Znrl8gG-u3tbT-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-16" parent="jbLmJs_Znrl8gG-u3tbT-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：创建意图" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-71" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-106" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="judge_CREATE" 提示词="进一步判断创建意图是否满足，如果不满足则返回不满足的原因，并告知main agent需要追问，满足则进行进行下一步创建。&#xa;追问达到两轮，可以采用默认配置进行，直接进入下一步创建" 输入="description" 输出="failure/success" 执行工具="create agent进行判断" id="jbLmJs_Znrl8gG-u3tbT-43">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="850" y="280" as="geometry">
+              <mxRectangle height="120" width="140" x="850" y="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-44" parent="jbLmJs_Znrl8gG-u3tbT-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-45" parent="jbLmJs_Znrl8gG-u3tbT-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-46" parent="jbLmJs_Znrl8gG-u3tbT-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：创建意图进一步判断" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <object label="CREATE" 提示词="根据描述进行生成要创建的文件" 输入="description" 输出="创建的文件，failure/success" 执行工具="create agent调用写入文件的工具" id="jbLmJs_Znrl8gG-u3tbT-50">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="1071" y="280" as="geometry">
+              <mxRectangle height="120" width="140" x="1080" y="280" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-51" parent="jbLmJs_Znrl8gG-u3tbT-50" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-52" parent="jbLmJs_Znrl8gG-u3tbT-50" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：七个文件" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-53" parent="jbLmJs_Znrl8gG-u3tbT-50" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：创建" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-82" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="continued_turns+1" 说明="调用工具无变化，说明在追问，continued_turns+1,否则不是追问，continued_turns=0初始化" tool发生变化="continued_turns=0, continued_turns+1" tool无变化="continued_turns+1" id="jbLmJs_Znrl8gG-u3tbT-63">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="116.5" x="265.25" y="820" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-92" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="jbLmJs_Znrl8gG-u3tbT-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="tool_EDIT" 提示词="进一步判断编辑意图是否满足，如果不满足则返回不满足的原因，满足则进行进行下一步" 输入="description, continued_turns" 输出="编辑好的文件，总结回答" id="jbLmJs_Znrl8gG-u3tbT-64">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="120" x="660" y="375" as="geometry">
+              <mxRectangle height="120" width="140" x="660" y="375" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-65" parent="jbLmJs_Znrl8gG-u3tbT-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description," vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-66" parent="jbLmJs_Znrl8gG-u3tbT-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-67" parent="jbLmJs_Znrl8gG-u3tbT-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：编辑意图" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-76" collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tool_CONTINUE" vertex="1">
+          <mxGeometry height="30" width="130" x="258.5" y="1030" as="geometry">
+            <mxRectangle height="120" width="140" x="240" y="650" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-77" parent="jbLmJs_Znrl8gG-u3tbT-76" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-78" parent="jbLmJs_Znrl8gG-u3tbT-76" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-79" parent="jbLmJs_Znrl8gG-u3tbT-76" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-83" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jbLmJs_Znrl8gG-u3tbT-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-84" connectable="0" parent="jbLmJs_Znrl8gG-u3tbT-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="FALSE" vertex="1">
+          <mxGeometry relative="1" x="-0.0317" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-85" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="935" />
+              <mxPoint x="200" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-86" connectable="0" parent="jbLmJs_Znrl8gG-u3tbT-85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TRUE" vertex="1">
+          <mxGeometry relative="1" x="-0.1904" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="continued_turns &amp;gt; 2" TRUE="输出：我先用默认配置为你操作，你可以随时告诉我需要调整什么。 &#xa;同时告知main agent，让其重新调用工具" FALSE="输出：&lt;追问内容&gt;" id="jbLmJs_Znrl8gG-u3tbT-81">
+          <mxCell parent="1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="70" width="185" x="231" y="900" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-97" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-108" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="390" />
+              <mxPoint x="1010" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="judge_EDIT" 提示词="进一步判断编辑意图是否满足，如果不满足则返回不满足的原因，并告知main agent需要追问，满足则进行进行下一步。" 输入="description" 输出="failure/success" 执行工具="edit agent进行判断" id="jbLmJs_Znrl8gG-u3tbT-87">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="850" y="375" as="geometry">
+              <mxRectangle height="120" width="140" x="850" y="375" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-88" parent="jbLmJs_Znrl8gG-u3tbT-87" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-89" parent="jbLmJs_Znrl8gG-u3tbT-87" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-90" parent="jbLmJs_Znrl8gG-u3tbT-87" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：编辑意图进一步判断" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <object label="EDIT" 提示词="根据描述进行生成编辑后的文件" 输入="description" 输出="编辑的文件，failure/success" 执行工具="edit agent调用读取文件、写入文件的工具" id="jbLmJs_Znrl8gG-u3tbT-98">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="1071" y="375" as="geometry">
+              <mxRectangle height="120" width="140" x="1080" y="375" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-99" parent="jbLmJs_Znrl8gG-u3tbT-98" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-100" parent="jbLmJs_Znrl8gG-u3tbT-98" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：编辑情况" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-101" parent="jbLmJs_Znrl8gG-u3tbT-98" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：编辑" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-107" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-105" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="需要追问" vertex="1">
+          <mxGeometry height="80" width="80" x="650" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-120" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="tool_COMMAND" 提示词="进一步判断命令运行意图是否满足，如果不满足则返回不满足的原因，满足则进行进行下一步" 输入="description" 输出="命令运行成功/失败" id="jbLmJs_Znrl8gG-u3tbT-109">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="120" x="660" y="470" as="geometry">
+              <mxRectangle height="120" width="140" x="660" y="470" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-110" parent="jbLmJs_Znrl8gG-u3tbT-109" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description," vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-111" parent="jbLmJs_Znrl8gG-u3tbT-109" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-112" parent="jbLmJs_Znrl8gG-u3tbT-109" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：命令运行意图" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-115" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="continued_turns=0" vertex="1">
+          <mxGeometry x="520" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-122" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-135" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="485" />
+              <mxPoint x="1020" y="160" />
+            </Array>
+            <mxPoint x="1020" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="judge_COMMAND" 提示词="进一步判断命令运行意图是否满足，如果不满足则返回不满足的原因，并告知main agent需要追问，满足则进行进行下一步。" 输入="description" 输出="failure/success" 执行工具="command agent进行判断" id="jbLmJs_Znrl8gG-u3tbT-116">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="850" y="470" as="geometry">
+              <mxRectangle height="120" width="140" x="850" y="440" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-117" parent="jbLmJs_Znrl8gG-u3tbT-116" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-118" parent="jbLmJs_Znrl8gG-u3tbT-116" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-119" parent="jbLmJs_Znrl8gG-u3tbT-116" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：命令意图进一步判断" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-127" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-128" connectable="0" parent="jbLmJs_Znrl8gG-u3tbT-127" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TRUE" vertex="1">
+          <mxGeometry relative="1" x="-0.27" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-121" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="确认命令 Y/N" vertex="1">
+          <mxGeometry height="80" width="160" x="1056" y="445" as="geometry" />
+        </mxCell>
+        <object label="COMMAND" 提示词="根据描述进行执行对应命令" 输入="description" 输出="failure/success" 执行工具="command agent调用命令执行的工具" id="jbLmJs_Znrl8gG-u3tbT-123">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="1280" y="470" as="geometry">
+              <mxRectangle height="120" width="140" x="1240.5" y="470" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-124" parent="jbLmJs_Znrl8gG-u3tbT-123" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-125" parent="jbLmJs_Znrl8gG-u3tbT-123" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：命令运行成功/失败" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-126" parent="jbLmJs_Znrl8gG-u3tbT-123" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：命令运行" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-162" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="tool_QA" 提示词="进一步判断知识问答意图是否满足，如果不满足则返回不满足的原因，满足则进行进行下一步" 输入="description" 输出="问答结果" id="jbLmJs_Znrl8gG-u3tbT-129">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="120" x="660" y="574" as="geometry">
+              <mxRectangle height="120" width="140" x="670" y="560" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-130" parent="jbLmJs_Znrl8gG-u3tbT-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description," vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-131" parent="jbLmJs_Znrl8gG-u3tbT-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-132" parent="jbLmJs_Znrl8gG-u3tbT-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：知识问答意图" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-134" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="continued_turns=0" vertex="1">
+          <mxGeometry x="520" y="585" as="geometry" />
+        </mxCell>
+        <object label="QA" 提示词="根据描述进行生成问答内容" 输入="description" 输出="问答的内容，failure/success" 执行工具="qa agent调用读取文件、检索文件的工具" id="jbLmJs_Znrl8gG-u3tbT-136">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="1071" y="574" as="geometry">
+              <mxRectangle height="120" width="140" x="850" y="555" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-137" parent="jbLmJs_Znrl8gG-u3tbT-136" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-138" parent="jbLmJs_Znrl8gG-u3tbT-136" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：回答内容" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-139" parent="jbLmJs_Znrl8gG-u3tbT-136" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：知识问答" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <object label="tool_QA/INVALID" 提示词="进行闲聊" 输入="description" 输出="闲聊内容" id="jbLmJs_Znrl8gG-u3tbT-141">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="120" x="660" y="650" as="geometry">
+              <mxRectangle height="120" width="140" x="660" y="660" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-142" parent="jbLmJs_Znrl8gG-u3tbT-141" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description," vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-143" parent="jbLmJs_Znrl8gG-u3tbT-141" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-144" parent="jbLmJs_Znrl8gG-u3tbT-141" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：闲聊意图" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-147" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="continued_turns=0" vertex="1">
+          <mxGeometry x="510" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-152" collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tool_REWRITE" vertex="1">
+          <mxGeometry height="30" width="130" x="420" y="1030" as="geometry">
+            <mxRectangle height="120" width="140" x="240" y="650" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-153" parent="jbLmJs_Znrl8gG-u3tbT-152" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-154" parent="jbLmJs_Znrl8gG-u3tbT-152" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-155" parent="jbLmJs_Znrl8gG-u3tbT-152" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;description&amp;gt;&lt;br&gt;&amp;lt;ask&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="885" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-163" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-164" edge="1" parent="1" source="jbLmJs_Znrl8gG-u3tbT-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jbLmJs_Znrl8gG-u3tbT-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="590" />
+              <mxPoint x="1030" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="judge_QA" 提示词="进一步判断知识意图是否满足，如果不满足则返回不满足的原因，并告知main agent需要追问，满足则进行进行下一步。" 输入="description" 输出="failure/success" 执行工具="qa agent进行判断" id="jbLmJs_Znrl8gG-u3tbT-158">
+          <mxCell collapsed="1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="30" width="130" x="850" y="575" as="geometry">
+              <mxRectangle height="120" width="140" x="850" y="605" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-159" parent="jbLmJs_Znrl8gG-u3tbT-158" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输入：description" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-160" parent="jbLmJs_Znrl8gG-u3tbT-158" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="输出：" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-161" parent="jbLmJs_Znrl8gG-u3tbT-158" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="描述：知识问答意图进一步判断" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="write_to_file" vertex="1">
+          <mxGeometry height="60" width="120" x="990" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="jbLmJs_Znrl8gG-u3tbT-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="read_file" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="860" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
